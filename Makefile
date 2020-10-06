@@ -11,7 +11,7 @@ FC_FLAGS    = -O2
 NVCC        = nvcc
 NVFLAGS     =
 NVCC_OPT    = -arch=sm_61 -lineinfo
-NVLIB       = -L/usr/local/cuda-9.2/lib64
+NVLIB       = -L/usr/local/cuda/lib64
 ##################################################################################
 
 
